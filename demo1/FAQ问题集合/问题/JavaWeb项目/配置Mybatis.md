@@ -1,4 +1,4 @@
-#配置Spring
+#配置Mybatis
 
 ---
 
